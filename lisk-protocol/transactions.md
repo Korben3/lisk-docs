@@ -9,7 +9,7 @@ An overview of the transactions available on Lisk's network are shown below.  Th
 2             | active      | Register a delegate                         |  25 LSK
 3             | active      | Submit vote(s) for delegates                |  1 LSK
 4             | active      | Multisignature registration                 | 5 LSK per key in keysgroup
- 5            | active      | Register an application on the blockchain   | 25 LSK
+ 5            | disabled    | Register an application on the blockchain   | 25 LSK
  6            | disabled    | Transfer Lisk into a sidechain              | 0.1 LSK
  7            | disabled    | Transfer Lisk out of a sidechain            |  0.1 LSK
 
