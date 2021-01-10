@@ -34,7 +34,7 @@ This includes the following points listed below:
 
 === State store
 
-The store store is a data structure that holds temporary state while processing a block.
+The state store is a data structure that holds temporary state while processing a block.
 The store is classified primarily based on 3 states - Accounts, Chain and Consensus.
 The `account` store holds state per account, the `chain` store holds blockchain wide state information and the `consensus` store holds internal state related to BFT.
 
